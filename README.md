@@ -1,4 +1,4 @@
-flask-mongo-app
+mongo-app-using-flask
 ===============
 
 A Python Flask Web App Development Skeleton using mongoDB featuring javascript.
@@ -74,7 +74,7 @@ _If you accidently delete the dir before doing destroy_
 * http://www.pixelmonkey.org/2013/03/13/rapid-web-prototyping-with-lightweight-tools
 * http://ryaneshea.com/lightweight-python-apps-with-flask-twitter-bootstrap-and-heroku
 
-Contributing
+Contributions
 ------------
 
 1. Fork it.
